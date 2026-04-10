@@ -1,0 +1,10 @@
+[Icon Theme]
+Name=Dark Theme
+Comment=Dark theme for app
+Directories=16x16@2/actions
+
+[16x16@2/actions]
+Size=16
+Scale=2
+Type=Fixed
+Context=Actions

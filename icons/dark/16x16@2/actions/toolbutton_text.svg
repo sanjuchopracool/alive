@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="toolbutton_text.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="25.6875"
+     inkscape:cx="10.686131"
+     inkscape:cy="12.360097"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       d="M 20.42449,8.2434854 H 19.213551 Q 18.315112,5.4960861 18.106779,5.1315023 17.911466,4.7669185 17.546882,4.6236892 17.182298,4.467439 15.229171,4.467439 h -1.263023 v 12.161474 q 0,2.265628 0.156251,2.734378 0.07813,0.247396 0.377604,0.403646 0.312501,0.14323 2.369795,0.507814 v 0.963543 q -3.971359,-0.14323 -5.104173,-0.14323 -1.53646,0 -4.700527,0.14323 v -0.963543 q 2.083336,-0.364584 2.4739615,-0.572918 0.260417,-0.143229 0.3515629,-0.46875 0.1041668,-0.338542 0.1041668,-2.734379 V 4.467439 H 7.8072865 q -1.1067723,0 -1.4713561,0.1822919 Q 5.9843675,4.8320228 5.7499922,5.3137942 5.3984293,6.0429618 4.7604076,8.2434854 H 3.5755103 Q 3.7968647,6.3294205 3.8489481,5.6002529 3.9010315,4.8710853 3.9661358,2.7617077 9.1223923,2.904937 14.044274,2.8788953 q 4.166671,-0.039063 5.98959,-0.1171876 0.01302,2.513024 0.390626,5.4817777 z"
+       id="text1"
+       style="font-weight:bold;font-size:26.6667px;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT, Bold';fill:#cbcbcb"
+       aria-label="T" /></g></svg>

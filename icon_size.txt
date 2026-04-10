@@ -1,0 +1,2 @@
+link_icon in property editor : 14x14 px
+timeline_item: 16 px

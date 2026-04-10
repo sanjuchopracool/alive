@@ -1,0 +1,3 @@
+[submodule "alive_core"]
+	path = alive_core
+	url = git@github.com:sanjuchopracool/alive_core.git
